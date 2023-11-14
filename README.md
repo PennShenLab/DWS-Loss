@@ -34,5 +34,6 @@ Please run the cells one by one. We compare the proposed method with the cross e
 
 ### Contacts
 
-- [Zexuan Wang](mailto:zxwang@sas.upenn.edu) 
+- [Zexuan Wang](mailto:zxwang@sas.upenn.edu)
+- [Qipeng Zhan](mailto:qipengz@sas.upenn.edu)
 - [Li Shen](mailto:li.shen@pennmedicine.upenn.edu) 
