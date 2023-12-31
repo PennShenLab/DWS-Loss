@@ -30,6 +30,9 @@ The simulation data is named DWS_Simulation.csv.
 The implementation is based on Python and Pytorch. We provide our code using the Google Colab. All the relevant packages are installed within the Notebook. To run this file, one might need to access to a GPU for faster computation.
 ### Usage
 Please run the cells one by one. We compare the proposed method with the cross entropy, cross entropy with logit activation and the focal loss. The evaluation metric is also shown in the code. Notice that if this is run on the local machine, please adjust the path of simulation data.
+### Acknowledgements
+This work was supported in part by the NIH grants U01 AG068057, RF1 AG063481, U01 AG066833, R01 LM013463, P30 AG073105, and R01 AG071470, and the NSF grant IIS 1837964. Data collection and sharing for this project was funded by the Alzheimer's Disease Neuroimaging Initiative (ADNI) (National Institutes of Health Grant U01 AG024904) and DOD ADNI (Department of Defense award number W81XWH-12-2-0012).
+
 
 
 ### Contacts
